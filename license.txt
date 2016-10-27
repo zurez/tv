@@ -1,7 +1,1 @@
-﻿This software is licensed under a Creative Commons Attribution 3.0 Unported
-license available at http://creativecommons.org/licenses/by/3.0/. Please
-include the following notice in any distribution: "Copyright 2012 @ Opera
-Software ASA, licensed under the Creative Commons Attribution 3.0 Unported,
-available at http://creativecommons.org/licenses/by/3.0/"
-
-THIS SOFTWARE IS BEING PROVIDED "AS IS", WITHOUT ANY EXPRESS OR IMPLIED WARRANTY. IN PARTICULAR, OPERA SOFTWARE ASA MAKES NO REPRESENTATION OR WARRANTY OF ANY KIND CONCERNING THE MERCHANTABILITY OF THIS SOFTWARE OR ITS FITNESS FOR ANY PARTICULAR PURPOSE.
+﻿
